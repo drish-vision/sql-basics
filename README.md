@@ -9,4 +9,4 @@ This project demonstrates basic SQL query skills, including:
 `students` with columns: id, name, age, grade, city
 
 ## File
-- `task3_select_queries.sql`: Contains all query examples
+- `dd_3`: Contains all query examples
